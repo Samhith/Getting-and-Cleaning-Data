@@ -1,4 +1,4 @@
-The five steps are perormed as follows :
+The five steps are performed as follows :
 
 1. Binding is done using the rbind() function
 2. The columns with mean and standard deviation 
