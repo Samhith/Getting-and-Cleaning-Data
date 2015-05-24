@@ -18,7 +18,7 @@ y_train,
 x_test,
 y_test,
 subject_train,
-subject_test: contain the data from the downloaded files.\n
+subject_test: contain the data from the downloaded files./n
 x_data,
 y_data,
 subject_data: merge the previous datasets to further analysis.\n
